@@ -2,6 +2,12 @@
 
 macOS 菜单栏用量工具。打开应用后，屏幕顶部会显示应用图标和当前固定服务的用量。点击图标即可查看 Codex、DeepSeek 和 GLM Coding Plan 的三张卡片。
 
+## 下载
+
+[下载 Codex Usage v1.0（macOS · Apple 芯片）](https://github.com/muxuan1978/CodexUsage/releases/download/v1.0/CodexUsage-v1.0-macos-arm64.zip)
+
+需要 macOS 26.0 或更新版本。解压后，将 `Codex Usage.app` 拖入「应用程序」。
+
 ## 账户配置
 
 | 服务 | 如何连接 | 卡片显示 |
